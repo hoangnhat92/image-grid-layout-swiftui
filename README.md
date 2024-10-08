@@ -4,7 +4,7 @@ This challenge was addressed by **UIKit**, but I wanted to resolve it using **Sw
 
 - Present a horizontal layout of images (similar to `UICollectionView` in UIKit) with a constant feed of images.
 - Each cell represents an image, with a placeholder appearing until the image has loaded.
-- The image URL is `imageflick.com/200/200`, which returns a random image with each request.
+- The image URL is `https://loremflickr.com/200/200/`, which returns a random image with each request.
 - Apply paging to the grid view.
 - Ensure the application runs smoothly and is free from crashes.
 
