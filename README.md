@@ -14,3 +14,6 @@ I implemented this in **SwiftUI** with some customizations to `AsyncImageView`. 
 
 While the main functionality of the challenge was resolved, there is room for improvement, particularly around paging. Handling paging in **SwiftUI** is a bit tricky, but I found a neat way to implement it.
 
+### Screenshot
+<img width="505" alt="Screenshot 2024-10-08 at 14 16 43" src="https://github.com/user-attachments/assets/7e7b56f8-1e25-455c-a351-74620a082394">
+
